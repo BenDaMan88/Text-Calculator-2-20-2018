@@ -2,6 +2,8 @@
 
 A text based calculator with multiple functions. These functions include: standard calculator, Binary to Decimal Converter, Decimal to Binary Converter, and Grade Calculator. The program was made in C++.
 
+**This program was made for an assignment in a Computer Science class, DO NOT copy for commercial or educational use.**
+
 Some example output:
 
       ************************************************************
